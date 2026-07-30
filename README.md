@@ -16,6 +16,7 @@ Este repositorio documenta mi proceso de aprendizaje en Ciencia de Datos, Machin
 ml-journey/
 ├── leccion-01/     # Fundamentos: NumPy y Pandas
 ├── leccion-02/     # Visualización de datos: Matplotlib y Seaborn
+├── leccion-03/     # Regresión lineal con scikit-learn
 ├── datasets/       # Datasets usados en los notebooks (los pesados no se versionan, ver .gitignore)
 ├── proyectos/      # Proyectos aplicados que integran varias lecciones
 └── README.md       # Este archivo
@@ -58,6 +59,7 @@ jupyter lab
 |---|---------|------|:------:|
 | 1 | [leccion-01](leccion-01/) | NumPy y Pandas — fundamentos | ✅ |
 | 2 | [leccion-02](leccion-02/) | Visualización de datos con Matplotlib y Seaborn | ✅ |
+| 3 | [leccion-03](leccion-03/) | Regresión lineal con scikit-learn — feature engineering, train/test split, escalado y evaluación (RMSE, MAE, R²) | ✅ |
 
 ---
 
@@ -73,6 +75,7 @@ This repository documents my learning process in Data Science, Machine Learning,
 ml-journey/
 ├── leccion-01/     # Fundamentals: NumPy and Pandas
 ├── leccion-02/     # Data visualization: Matplotlib and Seaborn
+├── leccion-03/     # Linear regression with scikit-learn
 ├── datasets/       # Datasets used in the notebooks (heavy files are not versioned, see .gitignore)
 ├── proyectos/      # Applied projects integrating multiple lessons
 └── README.md       # This file
@@ -115,3 +118,4 @@ jupyter lab
 |---|--------|-------|:------:|
 | 1 | [leccion-01](leccion-01/) | NumPy and Pandas — fundamentals | ✅ |
 | 2 | [leccion-02](leccion-02/) | Data visualization with Matplotlib and Seaborn | ✅ |
+| 3 | [leccion-03](leccion-03/) | Linear regression with scikit-learn — feature engineering, train/test split, scaling and evaluation (RMSE, MAE, R²) | ✅ |
